@@ -1,2 +1,2 @@
-# voskey-mfm
-https://voskey.icalo.net/ で作ったMFM達
+# voskey-plau
+https://voskey.icalo.net/ で作ったplay達
